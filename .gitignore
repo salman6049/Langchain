@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environment variables (your API key, etc.)
+.env
+
+# IDE/OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
